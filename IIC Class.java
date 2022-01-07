@@ -2,7 +2,7 @@ public class IICClass {
 public static void main(String[]args){
 String name="sahil";
 System.out.println("name");
-long phone=9027313196;
+long phone= 9819067945l;
 System.out.println(phone);
 String address= "biratnagar_t2";
 System.out.println("address");
